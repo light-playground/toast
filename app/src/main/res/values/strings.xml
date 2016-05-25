@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomeToast</string>
+    <string name="toast">自定义Toast!</string>
+    <string name="toast_btn">显示Toast</string>
+
+    <string-array name="options">
+        <item>Alibaba</item>
+        <item>Baidu</item>
+        <item>Tencent</item>
+    </string-array>
+</resources>
